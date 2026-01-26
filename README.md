@@ -8,7 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Sotokc2025/CodeChallenges_Enero-Abril?style=social)](https://github.com/Sotokc2025/CodeChallenges_Enero-Abril/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Sotokc2025/CodeChallenges_Enero-Abril?style=social)](https://github.com/Sotokc2025/CodeChallenges_Enero-Abril/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/Sotokc2025/CodeChallenges_Enero-Abril)](https://github.com/Sotokc2025/CodeChallenges_Enero-Abril/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Sotokc2025/CodeChallenges_Enero-Abril/issues)
 
 </div>
@@ -71,9 +71,9 @@ Bienvenido al repositorio de **Retos de Programación** correspondientes a los m
 
 Dependiendo del lenguaje de programación que elijas, necesitarás tener instalado:
 
-- **Python** 3.8+
-- **JavaScript/Node.js** 14+
-- **Java** 11+
+- **Python** 3.10+
+- **JavaScript/Node.js** 18+
+- **Java** 17+
 - **C++** (GCC 9.0+)
 - Otros lenguajes según tus preferencias
 
