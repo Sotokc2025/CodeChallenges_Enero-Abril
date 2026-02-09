@@ -1,4 +1,6 @@
 import React from 'react';
+"use strict";
+
 import './App.css';
 
 function App() {

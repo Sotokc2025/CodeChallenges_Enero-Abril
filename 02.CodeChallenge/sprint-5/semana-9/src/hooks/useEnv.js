@@ -1,3 +1,5 @@
+"use strict";
+
 function getViteEnv() {
   try {
     // Access import.meta.env directly; if bundler doesn't support it this will throw.
